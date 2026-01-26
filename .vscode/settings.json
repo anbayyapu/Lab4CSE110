@@ -2,5 +2,6 @@
     "cSpell.words": [
         "spendingtracker",
         "ucsd"
-    ]
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive"
 }
