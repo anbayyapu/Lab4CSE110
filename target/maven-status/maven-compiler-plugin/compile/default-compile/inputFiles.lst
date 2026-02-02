@@ -13,4 +13,7 @@
 /Users/anish/Documents/UCSD/CSE110WI/Lab4CSE110/src/main/java/edu/ucsd/spendingtracker/repository/ExpenseRepository.java
 /Users/anish/Documents/UCSD/CSE110WI/Lab4CSE110/src/main/java/edu/ucsd/spendingtracker/view/SpendingView.java
 /Users/anish/Documents/UCSD/CSE110WI/Lab4CSE110/src/main/java/edu/ucsd/spendingtracker/view/SummaryView.java
+/Users/anish/Documents/UCSD/CSE110WI/Lab4CSE110/src/main/java/edu/ucsd/spendingtracker/view/charts/BarChartProvider.java
+/Users/anish/Documents/UCSD/CSE110WI/Lab4CSE110/src/main/java/edu/ucsd/spendingtracker/view/charts/IChartProvider.java
+/Users/anish/Documents/UCSD/CSE110WI/Lab4CSE110/src/main/java/edu/ucsd/spendingtracker/view/charts/PieChartProvider.java
 /Users/anish/Documents/UCSD/CSE110WI/Lab4CSE110/src/main/java/module-info.java
