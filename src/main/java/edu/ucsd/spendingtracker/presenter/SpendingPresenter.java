@@ -36,6 +36,7 @@ public class SpendingPresenter extends AbstractPresenter<SpendingView> {
         return "Expenses";
     }
 
+    @Override
     public void updateView() {
         view.clearList();
         for (Expense expense : model.getExpenses()) {
